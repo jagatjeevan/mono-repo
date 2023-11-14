@@ -1,0 +1,15 @@
+{
+  "name": "package-a",
+  "version": "1.0.0",
+  "description": "This is package a.",
+  "main": "./index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Jagat Jeevan Sahoo <kanhajeevan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^18.2.0"
+  }
+}
